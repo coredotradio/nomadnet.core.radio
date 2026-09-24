@@ -1,36 +1,42 @@
-`c`Ff60`!CORE`!`f
-`c`Fca6Central Ohio Radio Enthusiasts`f
+`c`FTff6e00`!C O R E`!`f
+`c`FTc8a06aCentral Ohio Radio Enthusiasts`f
 `a``
+`FT6e5230
 -∿
-`c`[Home`:/page/index.mu]  ·  `[About`:/page/about.mu]  ·  `!On the Air`!  ·  `[Meetings`:/page/meetings.mu]  ·  `[Past Meetings`:/page/past-meetings.mu]  ·  `[FAQ`:/page/faq.mu]
+`f
+`c`FTc8a06a`[ Home`:/page/index.mu]   `[ About`:/page/about.mu]   `FTff6e00`! On the Air`!`FTc8a06a   `[ Meetings`:/page/meetings.mu]   `[ Past Meetings`:/page/past-meetings.mu]   `[ FAQ`:/page/faq.mu]`f
 `a``
+`FT6e5230
 -
+`f
 
->On the Air
+>`BT2b1c0e`FTff6e00On the Air
 
-`Fca6`!Find us between meetups`!`f
+`FTc8a06a`!Find us between meetups`!`f
 
 Meetups are once a month, but the radios are on all the time.
 
->>CORE Simplex Frequency
+>>`BT1a1109`FTc8a06a CORE Simplex Frequency
 
 Our informal simplex frequency. No repeater needed — just tune in and call out.
 
-`Ff60`!147.555 MHz`!`f
+`FTff6e00`!147.555 MHz`!`f
 
->>CORE Meshtastic Channel
+>>`BT1a1109`FTc8a06a CORE Meshtastic Channel
 
 Join our Meshtastic mesh network. Download the channel QR code below and scan it with the Meshtastic app to add the CORE channel to your node.
 
-`[Download the QR code (WebP, 5 KB)`:/file/core-meshtastic.webp]
+`[ Download the QR code (WebP, 5 KB)`:/file/core-meshtastic.webp]
 
 It's on the website too, at `[core.radio/on-the-air`https://core.radio/on-the-air]. Or ask on Discord and someone will get you sorted.
 
->>CORE Reticulum Network
+>>`BT1a1109`FTc8a06a CORE Reticulum Network
 
 You found us here, so you already know we're on Reticulum. You can connect over the Internet or over the air. New to Reticulum? Learn more at `[reticulum.network`https://reticulum.network/].
 
-`!Internet Gateway`!
+`FTc8a06a`!Internet Gateway`!`f
+
+`FT9a7040
 `=
   [[CORE]]
     type = TCPClientInterface
@@ -38,8 +44,11 @@ You found us here, so you already know we're on Reticulum. You can connect over 
     target_host = rns.core.radio
     target_port = 4242
 `=
+`f
 
-`!Reticulum over LoRa`!
+`FTc8a06a`!Reticulum over LoRa`!`f
+
+`FT9a7040
 `=
   [[CORE LoRa]]
     type = RNodeInterface
@@ -52,11 +61,12 @@ You found us here, so you already know we're on Reticulum. You can connect over 
     codingrate = 5
     mode = full
 `=
+`f
 
 <
+`FT6e5230
 -∿
-`c`Ff60Central Ohio Radio Enthusiasts`f
-`cColumbus, Ohio
-`chello@core.radio
-`c`[core.radio`https://core.radio]  ·  `[Discord`https://discord.gg/zfTRcm2HJH]  ·  `[GitHub`https://github.com/coredotradio]
+`f
+`c`FT9a7040Central Ohio Radio Enthusiasts  ·  Columbus, Ohio`f
+`c`FTc8a06a`[ core.radio`https://core.radio]   `[ Discord`https://discord.gg/zfTRcm2HJH]   `[ GitHub`https://github.com/coredotradio]    hello@core.radio`f
 `a``

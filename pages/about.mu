@@ -1,14 +1,18 @@
-`c`Ff60`!CORE`!`f
-`c`Fca6Central Ohio Radio Enthusiasts`f
+`c`FTff6e00`!C O R E`!`f
+`c`FTc8a06aCentral Ohio Radio Enthusiasts`f
 `a``
+`FT6e5230
 -∿
-`c`[Home`:/page/index.mu]  ·  `!About`!  ·  `[On the Air`:/page/on-the-air.mu]  ·  `[Meetings`:/page/meetings.mu]  ·  `[Past Meetings`:/page/past-meetings.mu]  ·  `[FAQ`:/page/faq.mu]
+`f
+`c`FTc8a06a`[ Home`:/page/index.mu]   `FTff6e00`! About`!`FTc8a06a   `[ On the Air`:/page/on-the-air.mu]   `[ Meetings`:/page/meetings.mu]   `[ Past Meetings`:/page/past-meetings.mu]   `[ FAQ`:/page/faq.mu]`f
 `a``
+`FT6e5230
 -
+`f
 
->About
+>`BT2b1c0e`FTff6e00About
 
-`Fca6`!What CORE is all about`!`f
+`FTc8a06a`!What CORE is all about`!`f
 
 CORE is an informal community for anyone enthusiastic or curious about radio — whether you're new to radio and want to learn or you've been tinkering for years and want to share. Ham radio operators, GMRS users, Meshtastic fans, software-defined radio nerds, makers, and technical and non-technical folks are all welcome. No experience required or expected.
 
@@ -16,37 +20,37 @@ We're deliberately not a traditional radio club. There are no bylaws, no officer
 
 In practice, CORE is a monthly meetup with a talk, a Discord server that's active between meetups, a few frequencies and mesh networks we hang out on, and a GitHub organization where talk materials and projects live. If you're curious about radio and don't know where to start, CORE is meant for you.
 
->Topics & Interests
+>`BT2b1c0e`FTff6e00Topics & Interests
 
-`Fca6`!If it involves radio, it belongs here`!`f
+`FTc8a06a`!If it involves radio, it belongs here`!`f
 
 CORE has a fairly broad focus. If it involves radio signals, antennas, spectrum, protocols, or hardware, then we like to talk about it. Here's `*some`* of the topics our members are into:
 
-`!Amateur Radio`!   HF, VHF, UHF, digital modes, licensing
-`!GMRS`!            General Mobile Radio Service, repeaters, family comms
-`!Mesh Networks`!   Meshtastic & MeshCore, LoRa, HaLow, Reticulum, off-grid nets
-`!SDR`!             Software defined radio, RTL-SDR, HackRF, WebSDRs
-`!Shortwave`!       Shortwave broadcasts, world band radio, numbers stations
-`!Scanners`!        Public safety, trunked systems, P25
-`!Aviation`!        ATC listening, ADS-B, ACARS, VHF airband
-`!Packet Radio`!    APRS, VARA, Winlink, digital messaging
-`!Electronics`!     Antennas, hardware projects, microcontrollers
-`!Anything Else`!   If it's radio or radio-adjacent, bring it up
+`FTc8a06a`! Amateur Radio`!`f  HF, VHF, UHF, digital modes, licensing
+`FTc8a06a`! GMRS`!`f           General Mobile Radio Service, repeaters, family comms
+`FTc8a06a`! Mesh Networks`!`f  Meshtastic & MeshCore, LoRa, HaLow, Reticulum
+`FTc8a06a`! SDR`!`f            Software defined radio, RTL-SDR, HackRF, WebSDRs
+`FTc8a06a`! Shortwave`!`f      Shortwave broadcasts, world band radio, numbers stations
+`FTc8a06a`! Scanners`!`f       Public safety, trunked systems, P25
+`FTc8a06a`! Aviation`!`f       ATC listening, ADS-B, ACARS, VHF airband
+`FTc8a06a`! Packet Radio`!`f   APRS, VARA, Winlink, digital messaging
+`FTc8a06a`! Electronics`!`f    Antennas, hardware projects, microcontrollers
+`FTc8a06a`! Anything Else`!`f  If it's radio or radio-adjacent, bring it up
 
->Community Guidelines
+>`BT2b1c0e`FTff6e00Community Guidelines
 
-`Fca6`!Three rules. That's it.`!`f
+`FTc8a06a`!Three rules. That's it.`!`f
 
 We want CORE to be a place where anyone can show up, ask questions, and feel welcome. Our rules are simple:
 
-`!Rule 1`!  Don't be a jerk.
-`!Rule 2`!  Don't do anything that makes us add a new rule.
-`!Rule 3`!  If you're not sure if rule 2 will be invoked, see rule 1.
+`FTc8a06a`!Rule 1`!`f  Don't be a jerk.
+`FTc8a06a`!Rule 2`!`f  Don't do anything that makes us add a new rule.
+`FTc8a06a`!Rule 3`!`f  If you're not sure if rule 2 will be invoked, see rule 1.
 
 <
+`FT6e5230
 -∿
-`c`Ff60Central Ohio Radio Enthusiasts`f
-`cColumbus, Ohio
-`chello@core.radio
-`c`[core.radio`https://core.radio]  ·  `[Discord`https://discord.gg/zfTRcm2HJH]  ·  `[GitHub`https://github.com/coredotradio]
+`f
+`c`FT9a7040Central Ohio Radio Enthusiasts  ·  Columbus, Ohio`f
+`c`FTc8a06a`[ core.radio`https://core.radio]   `[ Discord`https://discord.gg/zfTRcm2HJH]   `[ GitHub`https://github.com/coredotradio]    hello@core.radio`f
 `a``
