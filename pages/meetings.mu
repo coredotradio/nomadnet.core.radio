@@ -16,7 +16,7 @@
 
 We meet the first Tuesday of every month. Doors open at 6 PM and talks start at 6:30. Talks get scheduled as people volunteer them, so the further out you look, the more TBD you'll find. Want to fill one of those in? Email hello@core.radio or grab an admin on Discord.
 
->>`BT1a1109`FTc8a06aOctober 6, 2026
+>>`BT1a1109`FTc8a06aOctober 13, 2026
 
 `!Open Source Radio Projects: Hammunition, Skid Finder, and SolarStorm Scout`!
 `FT9a7040Moshe "ChiefGyk3D"`f

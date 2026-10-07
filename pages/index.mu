@@ -22,7 +22,7 @@ CORE is an informal community for anyone enthusiastic or curious about radio —
 
 >`BT2b1c0e`FTff6e00Next Meeting
 
-`FTff6e00`!Tuesday, October 6, 2026`!`f
+`FTff6e00`!Tuesday, October 13, 2026`!`f
 
 `!Open Source Radio Projects: Hammunition, Skid Finder, and SolarStorm Scout`!
 `FT9a7040Moshe "ChiefGyk3D"`f
