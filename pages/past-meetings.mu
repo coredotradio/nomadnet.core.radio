@@ -14,6 +14,18 @@
 
 `FTc8a06a`!What we've talked about`!`f
 
+>>`BT1a1109`FTc8a06aOpen Source Radio Projects: Hammunition, Skid Finder, and SolarStorm Scout
+
+`FT9a7040October 13, 2026 — Moshe "ChiefGyk3D"`f
+
+Moshe gave a hands-on showcase of several open-source projects he's actively developing around amateur radio, RF experimentation, Linux, and field use: Hammunition, a Linux-based radio software suite; Hammunition Hill, its companion dashboard; Skid Finder, a Bluetooth-based signal tracking and foxhunting toolkit; and SolarStorm Scout, a space-weather monitoring and alerting project.
+
+These projects are still in active alpha and beta development, so the talk doubled as an open call for fellow radio enthusiasts to test the software, break things, report bugs, suggest features, and provide real-world feedback to help shape where these projects go next.
+
+`FTc8a06a`!Project repos`!`f
+`[ Hammunition`https://github.com/ChiefGyk3D/Hammunition]   `[ Hammunition Hill`https://github.com/ChiefGyk3D/hammunition-hill]
+`[ Skid Finder`https://github.com/ChiefGyk3D/Skid-Finder]   `[ SolarStorm Scout`https://github.com/ChiefGyk3D/solarstorm_scout]
+
 >>`BT1a1109`FTc8a06aD-STAR: Digital Voice, Data, and Callsign Routing
 
 `FT9a7040September 1, 2026 — Mark Noble KE8BZW/WQWJ432`f

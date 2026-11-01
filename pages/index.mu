@@ -22,23 +22,17 @@ CORE is an informal community for anyone enthusiastic or curious about radio —
 
 >`BT2b1c0e`FTff6e00Next Meeting
 
-`FTff6e00`!Tuesday, October 13, 2026`!`f
+`FTff6e00`!Tuesday, November 3, 2026`!`f
 
-`!Open Source Radio Projects: Hammunition, Skid Finder, and SolarStorm Scout`!
-`FT9a7040Moshe "ChiefGyk3D"`f
+`!Amateur Radio Logging`!
+`FT9a7040Victoria Y. K8VSY`f
 
 `FTc8a06a`! When`!`f        6:00–9:00 PM
 `FTc8a06a`! Where`!`f       CGI, 570 Polaris Pkwy, Suite 200, Westerville, Ohio 43082
 `FTc8a06a`! Finding Us`!`f  Second floor, at the end of the hallway
 `FTc8a06a`! RSVP`!`f        `[tally.so/r/2E04Vj`https://tally.so/r/2E04Vj]
 
-Join Moshe for a hands-on showcase of several open-source projects he's actively developing around amateur radio, RF experimentation, Linux, and field use. He'll demo Hammunition, a Linux-based radio software suite; Hammunition Hill, its companion dashboard; Skid Finder, a Bluetooth-based signal tracking and foxhunting toolkit; and SolarStorm Scout, a space-weather monitoring and alerting project.
-
-These projects are still in active alpha and beta development, so this isn't just a presentation. It's an open call for fellow radio enthusiasts to test the software, break things, report bugs, suggest features, and provide real-world feedback to help shape where these projects go next.
-
-`FTc8a06a`!Project repos`!`f
-`[ Hammunition`https://github.com/ChiefGyk3D/Hammunition]   `[ Hammunition Hill`https://github.com/ChiefGyk3D/hammunition-hill]
-`[ Skid Finder`https://github.com/ChiefGyk3D/Skid-Finder]   `[ SolarStorm Scout`https://github.com/ChiefGyk3D/solarstorm_scout]
+Amateur Radio Logging, by K8VSY, will cover a non-exhaustive list of software for logging two-way contacts made via amateur radio. What makes up a two-way contact and a decent logbook will be covered. Additionally, the following will be reviewed: differences, similarities, and pros/cons about some of the most popular logging software available. Finally, "Digital Contact Verification Services" will be addressed, along with a deep dive into their integrations with each other.
 
 >`BT2b1c0e`FTff6e00Meetings
 
