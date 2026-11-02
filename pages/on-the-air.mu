@@ -30,6 +30,14 @@ Join our Meshtastic mesh network. Download the channel QR code below and scan it
 
 It's on the website too, at `[core.radio/on-the-air`https://core.radio/on-the-air]. Or ask on Discord and someone will get you sorted.
 
+>>`BT1a1109`FTc8a06a CORE MeshCore Channel
+
+Join our MeshCore mesh network. Download the channel QR code below and scan it with the MeshCore app to add the CORE channel to your node.
+
+`[ Download the QR code (PNG, 1 KB)`:/file/core-meshcore.png]
+
+It's on the website too, at `[core.radio/on-the-air`https://core.radio/on-the-air]. Or ask on Discord and someone will get you sorted.
+
 >>`BT1a1109`FTc8a06a CORE Reticulum Network
 
 You found us here, so you already know we're on Reticulum. You can connect over the Internet or over the air. New to Reticulum? Learn more at `[reticulum.network`https://reticulum.network/].
